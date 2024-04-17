@@ -16,10 +16,10 @@ export default function App() {
 }
 /*
 <NavigationContainer>
-        <MyStack />
+        <MyDrawer />
       </NavigationContainer>
 
 <NavigationContainer>
-        <MyStack />
+        <MyTabs />
       </NavigationContainer>
 */
