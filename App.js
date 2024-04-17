@@ -14,4 +14,12 @@ export default function App() {
     </PaperProvider>
   );
 }
+/*
+<NavigationContainer>
+        <MyStack />
+      </NavigationContainer>
 
+<NavigationContainer>
+        <MyStack />
+      </NavigationContainer>
+*/
